@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace TDDFizzBuzz
 {
     [TestClass]
-    public class UnitTest1
+    public class FizzBuzzTest
     {
         [TestMethod]
         public void When_minus210_Then_minusFizzBuzzBuzzinga()
